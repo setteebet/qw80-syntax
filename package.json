@@ -1,0 +1,18 @@
+{
+  "name": "qw80-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยบาทละ95ไม่อั้น✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยบาทละ95ไม่อั้น",
+"แอพหวยออนไลน์",
+"lottovipguru",
+"วิธีแทงหวยในเว็บ",
+"เลขดีงวดนี้"
+],
+  "repository": "https://github.com/setteebet/qw80-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
